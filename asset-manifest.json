@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mark-Your-Expense/static/css/main.d3a5a917.chunk.css",
+    "main.js": "/Mark-Your-Expense/static/js/main.f632d998.chunk.js",
+    "main.js.map": "/Mark-Your-Expense/static/js/main.f632d998.chunk.js.map",
+    "runtime-main.js": "/Mark-Your-Expense/static/js/runtime-main.fd0be24f.js",
+    "runtime-main.js.map": "/Mark-Your-Expense/static/js/runtime-main.fd0be24f.js.map",
+    "static/js/2.bc1857d2.chunk.js": "/Mark-Your-Expense/static/js/2.bc1857d2.chunk.js",
+    "static/js/2.bc1857d2.chunk.js.map": "/Mark-Your-Expense/static/js/2.bc1857d2.chunk.js.map",
+    "static/js/3.c36f95aa.chunk.js": "/Mark-Your-Expense/static/js/3.c36f95aa.chunk.js",
+    "static/js/3.c36f95aa.chunk.js.map": "/Mark-Your-Expense/static/js/3.c36f95aa.chunk.js.map",
+    "index.html": "/Mark-Your-Expense/index.html",
+    "static/css/main.d3a5a917.chunk.css.map": "/Mark-Your-Expense/static/css/main.d3a5a917.chunk.css.map",
+    "static/js/2.bc1857d2.chunk.js.LICENSE.txt": "/Mark-Your-Expense/static/js/2.bc1857d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd0be24f.js",
+    "static/js/2.bc1857d2.chunk.js",
+    "static/css/main.d3a5a917.chunk.css",
+    "static/js/main.f632d998.chunk.js"
+  ]
+}
