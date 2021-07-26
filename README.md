@@ -1,3 +1,8 @@
+# Track Your Expense
+
+This web app will help you to meet your daily goals of savings by tracking your daily expenses.
+This will track your expenses from year 2020 upto 2023
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
